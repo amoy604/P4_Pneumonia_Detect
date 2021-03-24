@@ -19,3 +19,8 @@ It does seem like there are visual differences between a healthy set of lungs vs
 
 These are the parameters that ended up having the best accuracy.
 ![Model%20used.png](attachment:Model%20used.png)
+
+
+```python
+
+```
